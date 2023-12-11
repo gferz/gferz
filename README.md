@@ -6,11 +6,10 @@ Hi there 👋, my name is Gabriel. I'm currently studying at Universitas Gadjah 
 
 
 ### 🌱 I’m currently learning :
--  🌐 Backend Web Development 
--  🐧 Linux System Programming
--  💻 Desktop Application
+-  🌐 DevOps 
 -  🧠 Machine Learning
--  👁️ Computer Vision
+-  💻 Desktop App Development
+-  🐧 Linux System Programming / Kernel Development
 
 Aside from programming, i also love several things such as :
 -  🔢 Math
@@ -20,17 +19,15 @@ Aside from programming, i also love several things such as :
 
 <br />
 
-## These are some languages, frameworks/libraries, and tools that i used to work with :
+## These are some languages and tools that i used to work with :
 ### Programming Languages
-![](https://skillicons.dev/icons?i=c,cpp,cs,py,nodejs)
-### Frameworks and Libraries
-![](https://skillicons.dev/icons?i=express,flask,pytorch,tensorflow,ros,qt,django,dotnet)
+![](https://skillicons.dev/icons?i=c,cpp,cs,py,nodejs,go)
 ### Tools
-![](https://skillicons.dev/icons?i=cmake,git,docker,kubernetes,postman)
+![](https://skillicons.dev/icons?i=docker,kubernetes,ansible,git,cmake)
 
 <br />
 
 ## 📫 How to reach me :
-- line id : gabriel_sf
-- instagram : @rielsf
+- Line id : gabriel_sf
+- Instagram : @rielsf
 
